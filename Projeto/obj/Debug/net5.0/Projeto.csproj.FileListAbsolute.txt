@@ -1,0 +1,16 @@
+D:\Leo\Estudos\UVV\POO II\Projeto\bin\Debug\net5.0\Projeto.exe
+D:\Leo\Estudos\UVV\POO II\Projeto\bin\Debug\net5.0\Projeto.deps.json
+D:\Leo\Estudos\UVV\POO II\Projeto\bin\Debug\net5.0\Projeto.runtimeconfig.json
+D:\Leo\Estudos\UVV\POO II\Projeto\bin\Debug\net5.0\Projeto.runtimeconfig.dev.json
+D:\Leo\Estudos\UVV\POO II\Projeto\bin\Debug\net5.0\Projeto.dll
+D:\Leo\Estudos\UVV\POO II\Projeto\bin\Debug\net5.0\ref\Projeto.dll
+D:\Leo\Estudos\UVV\POO II\Projeto\bin\Debug\net5.0\Projeto.pdb
+D:\Leo\Estudos\UVV\POO II\Projeto\obj\Debug\net5.0\Projeto.csproj.AssemblyReference.cache
+D:\Leo\Estudos\UVV\POO II\Projeto\obj\Debug\net5.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leo\Estudos\UVV\POO II\Projeto\obj\Debug\net5.0\Projeto.AssemblyInfoInputs.cache
+D:\Leo\Estudos\UVV\POO II\Projeto\obj\Debug\net5.0\Projeto.AssemblyInfo.cs
+D:\Leo\Estudos\UVV\POO II\Projeto\obj\Debug\net5.0\Projeto.csproj.CoreCompileInputs.cache
+D:\Leo\Estudos\UVV\POO II\Projeto\obj\Debug\net5.0\Projeto.dll
+D:\Leo\Estudos\UVV\POO II\Projeto\obj\Debug\net5.0\ref\Projeto.dll
+D:\Leo\Estudos\UVV\POO II\Projeto\obj\Debug\net5.0\Projeto.pdb
+D:\Leo\Estudos\UVV\POO II\Projeto\obj\Debug\net5.0\Projeto.genruntimeconfig.cache
